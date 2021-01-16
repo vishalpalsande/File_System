@@ -23,6 +23,7 @@ int CreateFile(char *,int );
 void DeleteFile(char *);
 void LS();
 int WriteFile(int );
+void Stat_File(char *);
 void DisplayHelp();
 void ManPage(char *);
 void ShowCommand();
