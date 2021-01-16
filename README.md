@@ -5,8 +5,8 @@ It provides necessary commands, system calls implementations of file system thro
 In this project implement all necessary data structures of file system like,</br>
 **-Incore Inode Table(IIT)</br> 
 -File Table(FT)</br> 
--UAREA(User area)</br> 
--UFDT(User File Descriptor table)**
+-UAREA(User Area)</br> 
+-UFDT(User File Descriptor Table)**
 
 # 
 
