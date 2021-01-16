@@ -2,11 +2,11 @@
 
 This project provides all functionality to the user which is same as Linux File system ( Virtual File System ).</br>
 It provides necessary commands, system calls implementations of file system through customised shell.</br>
-In this project implement all necessary data structures of file system like</br>
-**Incore Inode Table(IIT)</br> 
-File Table(FT)</br> 
-UAREA(User area)</br> 
-UFDT(User File Descriptor table)**
+In this project implement all necessary data structures of file system like,</br>
+**-Incore Inode Table(IIT)</br> 
+-File Table(FT)</br> 
+-UAREA(User area)</br> 
+-UFDT(User File Descriptor table)**
 
 # 
 
